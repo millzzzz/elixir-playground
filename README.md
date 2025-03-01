@@ -1,5 +1,8 @@
 # elixir-playground
-#elixir-playground
+
+main learning resource https://github.com/abreujp/masters-of-elixir
+development environment https://livebook.dev/
+additional platforms marlowe + plutus
 
 - [] What's the difference between a buffer and window in LazyVim?
 - [] What does it mean to be writing good clean code in Elixir? Let's explore this through a series of projects starting the building block type style learning journey?
@@ -14,7 +17,7 @@ This document outlines a cookbook-style curriculum for two functional programmin
 
 ## Elixir & Phoenix LiveView Cookbook Curriculum
 
-### Section 1: Elixir Fundamentals – Building Blocks
+### Section : Elixir Fundamentals – Building Blocks
 - **Topic 1: Getting Started with Elixir**  
   - Installing Elixir and Erlang 
   - Using IEx (Interactive Elixir Shell)  
