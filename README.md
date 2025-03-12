@@ -1,11 +1,15 @@
 # elixir-playground
 
-main learning resource https://github.com/abreujp/masters-of-elixir
-development environment https://livebook.dev/
-additional platforms marlowe + plutus
+- main learning resource https://github.com/abreujp/masters-of-elixir https://github.com/h4cc/awesome-elixir?tab=readme-ov-file
+- https://www.libhunt.com/l/elixir
+- https://github.com/elixirkoans/elixir-koans
+- https://codesignal.com/learn/paths/introduction-to-elixir
+- https://elixirschool.com/en
+- development environment https://livebook.dev/
+- additional platforms marlowe + plutus
 
-- [] What's the difference between a buffer and window in LazyVim?
-- [] What does it mean to be writing good clean code in Elixir? Let's explore this through a series of projects starting the building block type style learning journey?
+- What's the difference between a buffer and window in LazyVim?
+- What does it mean to be writing good clean code in Elixir? Let's explore this through a series of projects starting the building block type style learning journey?
 
   This is the elixir cook book:
 
